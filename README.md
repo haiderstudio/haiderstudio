@@ -1,5 +1,5 @@
 # Haider Ali
-Small, single-job developer tools. One job per repo, tested, free, MIT.
+Hi, I'm Haider. I build tools that do one job, and do it properly. This profile is where I publish them.
 ## What I build
 - Agent skills that do one job well, with refusal rules for vague work.
 - Python CLIs, standard library only, that run offline.
@@ -13,3 +13,4 @@ Small, single-job developer tools. One job per repo, tested, free, MIT.
 - [broken-link-checker-cli](https://github.com/haiderstudio/broken-link-checker-cli) – broken page vs broken anchor links.
 - [changelog-writer-skill](https://github.com/haiderstudio/changelog-writer-skill) – Turn a git log and a release range into a Keep-a-Changelog entry — with no invented features.
 - [seo-meta-audit-skill](https://github.com/haiderstudio/seo-meta-audit-skill) – Audit one page's SEO basics — title, meta description, canonical, Open Graph, and H1 structure — and report only what the page actually shows.
+- [repo-hygiene-checker-cli](https://github.com/haiderstudio/repo-hygiene-checker-cli) – Repo hygiene checker: check a repo is publish-ready against a fixed publish template — pass/fail per check, nothing invented.

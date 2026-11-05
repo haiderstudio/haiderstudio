@@ -1,9 +1,9 @@
 # Haider Ali
-Hi, I'm Haider. I build tools that do one job, and do it properly. This profile is where I publish them.
-## What I build
-- Agent skills that do one job well, with refusal rules for vague work.
-- Python CLIs, standard library only, that run offline.
+
+I build tools that do one job.
+
 ## Repos
+
 - [readme-writer-skill](https://github.com/haiderstudio/readme-writer-skill) – README from real code, never invented features.
 - [git-branch-cleanup-cli](https://github.com/haiderstudio/git-branch-cleanup-cli) – delete stale branches, dry-run first.
 - [env-example-sync-cli](https://github.com/haiderstudio/env-example-sync-cli) – .env.example drift check, fails CI.

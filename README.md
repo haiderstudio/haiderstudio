@@ -1,6 +1,4 @@
-# Haider Ali
-
-I build tools that do one job.
+I love building tools that just work.
 
 ## Repos
 
